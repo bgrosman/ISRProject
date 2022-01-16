@@ -1,0 +1,13 @@
+.table {
+  width: 50%;
+  margin: 20px;
+  float: left;
+}
+
+#orders-form {
+  width: 40%;
+  margin: 20px;
+  float: left;
+  background-color: #DCDCDC;
+  padding: 15px;
+}
